@@ -1,5 +1,5 @@
 import express, { Application } from 'express';
-import postsRouter from './routes/post.js';
+import postsRouter from './routes/posts.js';
 import healthRouter from './routes/health.js';
 
 
